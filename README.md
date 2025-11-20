@@ -1,6 +1,6 @@
 ﻿# Política de Privacidad - Ninja Timer Control
 
-**Última actualización:** Enero 2025  
+**Última actualización:** Noviembre 2025  
 **Versión:** 1.0
 
 ---
@@ -325,3 +325,4 @@ No necesitamos tus datos para ofrecerte una excelente herramienta de productivid
 Este documento puede ser compartido y modificado por nosotros bajo los términos de la licencia de software de Ninja Timer Control.
 
 **2025 Interactive Solutions**. Todos los derechos reservados.
+
