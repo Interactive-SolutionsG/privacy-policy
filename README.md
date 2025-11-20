@@ -77,10 +77,10 @@ Toda la información que configures en Ninja Timer Control se almacena **exclusi
 - Tareas programadas
 
 **Estos archivos:**
-- ✅ Solo existen en tu computadora
-- ✅ NO se sincronizan con ningún servidor
-- ✅ NO son accesibles para el desarrollador
-- ✅ Puedes eliminarlos en cualquier momento
+-  Solo existen en tu computadora
+-  NO se sincronizan con ningún servidor
+-  NO son accesibles para el desarrollador
+-  Puedes eliminarlos en cualquier momento
 
 ---
 
@@ -178,7 +178,7 @@ Los únicos datos que existen son:
 
 # 9. Compartir Información con Terceros
 
-### 🚫 NO Compartimos Datos
+# NO Compartimos Datos
 
 NO hay recopilación de datos.
 
@@ -325,4 +325,5 @@ No necesitamos tus datos para ofrecerte una excelente herramienta de productivid
 Este documento puede ser compartido y modificado por nosotros bajo los términos de la licencia de software de Ninja Timer Control.
 
 **2025 Interactive Solutions**. Todos los derechos reservados.
+
 
