@@ -214,15 +214,13 @@ Dado que todos tus datos están almacenados localmente en tu dispositivo:
 
 # Tus Derechos
 
-Como NO recopilamos datos personales, no aplican la mayoría de las regulaciones de privacidad (GDPR, CCPA, etc.), pero respetamos tus derechos:
+Como NO recopilamos datos personales, no aplican la mayoría de las regulaciones de privacidad (GDPR, CCPA, etc.), pero respetamos tus derechos:                      
 
- Derecho                       ¿Cómo ejercerlo? 
-
- **Acceso a tus datos**        Todos están en tu dispositivo en `%APPDATA%\` 
- **Eliminar tus datos**        Desinstala la app o elimina los datos de la carpeta manualmente 
- **Portabilidad**              Copia los archivos de configuración a otro dispositivo 
- **Oposición**                 No aplica (no hay recopilación) 
- **Rectificación**             Modifica directamente los archivos de configuración, SIN modificar la estructura del programa (ingeniería inversa no permitida)
+  Derecho - **Acceso a tus datos** ¿Cómo ejercerlo? - Todos están en tu dispositivo en `%APPDATA%\` 
+  Derecho - **Eliminar tus datos** ¿Cómo ejercerlo? - Desinstala la app o elimina los datos de la carpeta manualmente 
+  Derecho - **Portabilidad**       ¿Cómo ejercerlo? - Copia los archivos de configuración a otro dispositivo 
+  Derecho - **Oposición**          ¿Cómo ejercerlo? - No aplica (no hay recopilación) 
+  Derecho - **Rectificación**      ¿Cómo ejercerlo? - Modifica directamente los archivos de configuración, SIN modificar la estructura del programa (ingeniería inversa no permitida)
 
 ---
 
@@ -325,5 +323,6 @@ No necesitamos tus datos para ofrecerte una excelente herramienta de productivid
 Este documento puede ser compartido y modificado por nosotros bajo los términos de la licencia de software de Ninja Timer Control.
 
 **2025 Interactive Solutions**. Todos los derechos reservados.
+
 
 
